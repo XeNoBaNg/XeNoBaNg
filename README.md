@@ -7,8 +7,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=XeNoBaNg&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=XeNoBaNg&theme=shadow_green&hide_border=false)<br/>
+![LeetCode Streak](https://leetcard.jacoblin.cool/abhinavchavan0782?theme=dark&ext=heatmap)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=XeNoBaNg&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![LeetCode Streak](https://leetcard.jacoblin.cool/abhinavchavan0782?theme=dark&ext=heatmap)
 
 
 ---
