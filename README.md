@@ -1,9 +1,9 @@
-<table>
+<table style="width:100%;">
   <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="250">
+    <td style="width: 50%;">
+      <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400">
     </td>
-    <td>
+    <td style="width: 50%; text-align: center;">
       <h2>🌐 Socials:</h2>
       <p>
         <a href="https://discord.com/channels/@me">
@@ -15,6 +15,7 @@
         <a href="https://www.linkedin.com/in/abhinav-chavan-a4a7b929b/">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
+        <br>
         <a href="https://x.com/XeNo_bANg06">
           <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
         </a>
@@ -28,6 +29,7 @@
     </td>
   </tr>
 </table>
+
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
