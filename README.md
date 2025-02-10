@@ -45,10 +45,10 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=XeNoBaNg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=39ff14&icon_color=39ff14&text_color=39ff14&bg_color=000000">
+      ![](https://github-readme-stats.vercel.app/api?username=XeNoBaNg&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=XeNoBaNg&theme=tokyonight&hide_border=true&ring=39ff14&fire=39ff14&sideNums=39ff14">
+      ![](https://github-readme-streak-stats.herokuapp.com/?user=XeNoBaNg&theme=shadow_green&hide_border=false)
     </td>
   </tr>
   <tr>
