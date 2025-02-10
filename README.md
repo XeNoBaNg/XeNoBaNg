@@ -45,21 +45,22 @@
 <table style="width:100%;">
   <tr>
     <td>
-      ![](https://github-readme-stats.vercel.app/api?username=XeNoBaNg&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)
+      <img src="https://github-readme-stats.vercel.app/api?username=XeNoBaNg&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false">
     </td>
     <td>
-      ![](https://github-readme-streak-stats.herokuapp.com/?user=XeNoBaNg&theme=shadow_green&hide_border=false)
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=XeNoBaNg&theme=shadow_green&hide_border=false">
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://leetcard.jacoblin.cool/abhinavchavan0782?theme=dark&ext=activity&border=39ff14&font=39ff14">
+      <img src="https://leetcard.jacoblin.cool/abhinavchavan0782?theme=dark&ext=heatmap">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeNoBaNg&layout=compact&theme=tokyonight&hide_border=true&title_color=39ff14&text_color=39ff14&bg_color=000000">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeNoBaNg&layout=compact&theme=shadow_green&hide_border=false">
     </td>
   </tr>
 </table>
+
 
 
 
