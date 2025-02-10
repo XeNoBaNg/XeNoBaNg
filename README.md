@@ -45,21 +45,22 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=XeNoBaNg&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true">
+      <img src="https://github-readme-stats.vercel.app/api?username=XeNoBaNg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=39ff14&icon_color=39ff14&text_color=39ff14&bg_color=000000">
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=XeNoBaNg&theme=radical&hide_border=true">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=XeNoBaNg&theme=tokyonight&hide_border=true&ring=39ff14&fire=39ff14&sideNums=39ff14">
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://leetcard.jacoblin.cool/abhinavchavan0782?theme=dark&ext=activity">
+      <img src="https://leetcard.jacoblin.cool/abhinavchavan0782?theme=dark&ext=activity&border=39ff14&font=39ff14">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeNoBaNg&layout=compact&theme=radical&hide_border=true&langs_count=8">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeNoBaNg&layout=compact&theme=tokyonight&hide_border=true&title_color=39ff14&text_color=39ff14&bg_color=000000">
     </td>
   </tr>
 </table>
+
 
 
 
