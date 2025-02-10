@@ -45,21 +45,22 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=XeNoBaNg&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false">
+      <img src="https://github-readme-stats.vercel.app/api?username=XeNoBaNg&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true">
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=XeNoBaNg&theme=shadow_green&hide_border=false">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=XeNoBaNg&theme=radical&hide_border=true">
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://leetcard.jacoblin.cool/abhinavchavan0782?theme=dark&ext=heatmap">
+      <img src="https://leetcard.jacoblin.cool/abhinavchavan0782?theme=dark&ext=activity">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeNoBaNg&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeNoBaNg&layout=compact&theme=radical&hide_border=true&langs_count=8">
     </td>
   </tr>
 </table>
+
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
