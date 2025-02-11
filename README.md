@@ -48,7 +48,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=XeNoBaNg&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false">
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=XeNoBaNg&theme=shadow_green&hide_border=false">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=XeNoBaNg&theme=shadow_green&hide_border=false" alt="GitHub Streak">
     </td>
   </tr>
   <tr>
